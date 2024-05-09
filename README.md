@@ -1,0 +1,1 @@
+This is a data science approach to analyzing lifestyle factors and age on mental and physical health. For a full breakdown of the project's approach and goals, take a look at the LifestyleFactorsOnHealth pdf.
